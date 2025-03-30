@@ -1,4 +1,4 @@
-# test-task-UpVKVHtyOVVr
+# Test task: UpVKVHtyOVVr
 
 ##  Демонстрация выполненного задания
 
