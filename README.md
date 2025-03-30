@@ -3,7 +3,7 @@
 ##  Демонстрация выполненого задания
 
 <div align="center" width="100%">
-  <img src="readme_images/демонстрация выполнения задания.gif.gif" alt="Демонстрация выполненого задания" border="0" width='400px' />
+  <img src="readme_images/демонстрация выполнения задания.gif" alt="Демонстрация выполненого задания" border="0" width='400px' />
 </div>
 
 ---
