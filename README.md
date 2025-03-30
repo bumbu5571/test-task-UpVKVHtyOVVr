@@ -1,9 +1,9 @@
 # test-task-UpVKVHtyOVVr
 
-##  Демонстрация выполненого задания
+##  Демонстрация выполненного задания
 
 <div align="center" width="100%">
-  <img src="readme_images/демонстрация выполнения задания.gif" alt="Демонстрация выполненого задания" border="0" width='400px' />
+  <img src="readme_images/test-task-UpVKVHtyOVVr.gif" alt="Демонстрация выполненного задания" border="0" width='400px' />
 </div>
 
 ---
