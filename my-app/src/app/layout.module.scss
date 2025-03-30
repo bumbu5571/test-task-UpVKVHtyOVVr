@@ -1,0 +1,11 @@
+@use './_variables.scss' as v;
+
+.container {
+  width: max-content;
+  max-width: 66%;
+  margin: 10rem auto;
+  padding: 18px 18px;
+  border-radius: 18px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+  font-size: v.$font-size-large;
+}

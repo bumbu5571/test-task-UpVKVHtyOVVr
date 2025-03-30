@@ -1,0 +1,10 @@
+@use '../app/variables' as v;
+
+.container {
+  margin: 18px;
+
+  & h4 {
+    margin-top: 0;
+    margin-bottom: v.$padding-medium;
+  }
+}

@@ -1,0 +1,30 @@
+@use '../app/variables' as v;
+
+.container {
+  & ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 16;
+    margin: 0;
+    padding: v.$padding-medium 0;
+    font-size: v.$font-size-large;
+    list-style: none;
+  }
+
+  & a {
+    text-decoration: none;
+    color: v.$text-color;
+  }
+
+  & li.user {
+    width: 300px;
+    @include v.flex-center;
+    gap: 10;
+    color: v.$primary-color;
+  }
+
+  & button {
+    @include v.button-style;
+  }
+}

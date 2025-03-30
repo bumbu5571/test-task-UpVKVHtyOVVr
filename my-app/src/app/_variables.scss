@@ -1,0 +1,26 @@
+$primary-color: #2563eb;
+$secondary-color: #9ca3af;
+$text-color: #000;
+$white-color: #fff;
+$error-color: red;
+
+$border-radius: 0.375rem;
+$padding-small: 4px;
+$padding-medium: 8px;
+$font-size-small: 0.875rem;
+$font-size-medium: 1rem;
+$font-size-large: 1.25rem;
+
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin button-style {
+  width: 33%;
+  padding: $padding-medium;
+  border-radius: $border-radius;
+  font-size: $font-size-medium;
+  cursor: pointer;
+}
